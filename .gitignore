@@ -1,0 +1,9 @@
+HELP.md
+/server/target/
+/server/.mvn
+/server/target
+/server/.idea
+
+/web/node_modules
+/Web/build
+/web/.idea
