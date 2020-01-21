@@ -1,5 +1,5 @@
 import React from 'react';
-import './Header.css';
+import './Header.scss';
 
 export default class Header extends React.Component {
   constructor(props) {
@@ -11,7 +11,7 @@ export default class Header extends React.Component {
     return(
       <header id='top'>
         <div className='wrapper'>
-          <h1 className='logo'><a href='#'>Cardly<span>.</span></a></h1>
+          <h1 className='logo'><a href='#'>DAKEZI<span>.</span> CLUB</a></h1>
           <nav>
             <ul id='navigation'>
               <li><a href='#'>Home</a></li>

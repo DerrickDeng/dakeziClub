@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Article section */
+.featured-articles-section {
+    text-align: center;
+    padding: 100px 0;
+    background: #fff;
+
+    .cards-container {
+        margin: 60px auto;
+    }
+}
