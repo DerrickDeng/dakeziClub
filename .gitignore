@@ -4,6 +4,6 @@ HELP.md
 /server/target
 /server/.idea
 
-/web/node_modules
-/Web/build
-/web/.idea
+/web/node_modules/
+/Web/build/
+/web/.idea/
